@@ -55,7 +55,7 @@
     </tr>
     <tr>
       <td align="center">2026.10</td>
-      <td align="center">12th</i></td>
+      <td align="center">12th / 136</i></td>
         <td align="center">국립공원공단</td>
       <td align="center">2026 국립공원 위성 모니터링 AI 챌린지 - 주제 3: 국립공원 내 시설물 변화 탐지</td>
     </tr>
