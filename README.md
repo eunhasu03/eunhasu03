@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Minho%27s+GitHub;Backend+developer+in+progress;Enjoy+my+repo!&font=Fira%20Code&center=true&width=550&height=60&duration=1800&pause=800&color=9370DB">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Taehyun%27s+GitHub;Backend+developer+in+progress;Enjoy+my+repo!&font=Fira%20Code&center=true&width=550&height=60&duration=1800&pause=800&color=9370DB">
 </div>
 
 <h2>🙋🏻‍♂️ About me</h2>
