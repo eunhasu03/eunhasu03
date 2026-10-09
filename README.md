@@ -10,9 +10,7 @@
 <blockquote>
 </blockquote>
 
-</br>
-
-
+<br/>
 
 <h2>🏅 Awards</h2>
 
@@ -32,14 +30,14 @@
       <td align="center">🥈&nbsp;<i>2nd&nbsp;Place</i></td>
       <td align="center">강원특별자치도, 한국인터넷진흥원, 국가정보원, 지상작전사령부</td>
       <td align="center">2024 강원지역 사이버보안 해킹방어대회 군인부문 우수상 - 22사단 P&K팀</td>
-      <td align="center">LINK</td>
+      <td align="center"><a href="해당_링크_URL입력">LINK</a></td>
     </tr>
     <tr>
       <td align="center">2026</td>
       <td align="center">🥈&nbsp;<i>2nd&nbsp;Place</i></td>
       <td align="center">서경대학교</td>
       <td align="center">생성형 AI 활용 웹개발 공모전</td>
-      <td align="center">[LINK](https://github.com/AI-webpage/AI-webPage)</td>
+      <td align="center"><a href="https://github.com/AI-webpage/AI-webPage">LINK</a></td>
     </tr>
   </tbody>
 </table>
@@ -59,39 +57,41 @@
   <tbody>
     <tr>
       <td align="center">2023</td>
-      <td align="center">-</i></td>
-        <td align="center">멋쟁이사자처럼</td>
+      <td align="center">-</td>
+      <td align="center">멋쟁이사자처럼</td>
       <td align="center">2023 멋쟁이사자처럼 중앙해커톤 - 하마하마</td>
-      <td align="center">[README](https://github.com/Fullen-likelion14-hackathon)</td>
+      <td align="center"><a href="https://github.com/Fullen-likelion14-hackathon">README</a></td>
     </tr>
-  <tr>
     <tr>
       <td align="center">2025</td>
-      <td align="center">-</i></td>
-        <td align="center">대한민국 육군</td>
+      <td align="center">-</td>
+      <td align="center">대한민국 육군</td>
       <td align="center">2025 육군 사이버보안 경진대회 - 3군단 대표</td>
-  <td align="center">-</td>
+      <td align="center">-</td>
     </tr>
-  <tr>
+    <tr>
       <td align="center">2026</td>
-      <td align="center">-</i></td>
-        <td align="center">멋쟁이사자처럼</td>
+      <td align="center">-</td>
+      <td align="center">멋쟁이사자처럼</td>
       <td align="center">2026 멋쟁이사자처럼 중앙해커톤 - Fullen</td>
-  <td align="center">[README](https://github.com/Fullen-likelion14-hackathon)</td>
-    </tr>
-  <tr>
-      <td align="center">2026.10</td>
-      <td align="center">-</i></td>
-        <td align="center">서경대학교</td>
-      <td align="center">2026 서경대학교 교내 해커톤 SKTHON - OnE</td>
-  <td align="center">[FE](https://github.com/2026-SKThon/FE) [BE](https://github.com/2026-SKThon/BE)</td>
+      <td align="center"><a href="https://github.com/Fullen-likelion14-hackathon">README</a></td>
     </tr>
     <tr>
       <td align="center">2026.10</td>
-      <td align="center">12th / 136</i></td>
-        <td align="center">국립공원공단</td>
+      <td align="center">-</td>
+      <td align="center">서경대학교</td>
+      <td align="center">2026 서경대학교 교내 해커톤 SKTHON - OnE</td>
+      <td align="center">
+        <a href="https://github.com/2026-SKThon/FE">FE</a> / 
+        <a href="https://github.com/2026-SKThon/BE">BE</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2026.10</td>
+      <td align="center">12th / 136</td>
+      <td align="center">국립공원공단</td>
       <td align="center">2026 국립공원 위성 모니터링 AI 챌린지(주제 3: 국립공원 내 시설물 변화 탐지) - AI엠그루트</td>
-      <td align="center">[LearderBoard](https://aifactory.space/ko/competitions/9306/leaderboard)</td>
+      <td align="center"><a href="https://aifactory.space/ko/competitions/9306/leaderboard">Leaderboard</a></td>
     </tr>
   </tbody>
 </table>
@@ -119,33 +119,35 @@
       <td align="center">네트워크관리사 2급</td>
       <td align="center">-</td>
     </tr>
-  
   </tbody>
 </table>
 
-<br></br>
+<br>
 
-<h2> 📚 I've Used...</h2>
-<h3> Language</h3>
+<h2>📚 I've Used...</h2>
+
+<h3>Language</h3>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" />
   </a>
 </p>
+
+<h3>Framework & Library</h3>
 <p>
-  <h3> Framework & Library</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,nodejs" />
   </a>
 </p>
-<h3> Database </h3>
+
+<h3>Database</h3>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
   </a>
 </p>
 
-<h3> Infra & DevOps </h3>
+<h3>Infra & DevOps</h3>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,netlify,vercel,docker" />
