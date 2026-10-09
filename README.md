@@ -35,6 +35,33 @@
   </tbody>
 </table>
 
+<h2>대회 참가 내역</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th align="center">Date</th>
+      <th align="center">Rank</th>
+      <th align="center">Organization</th>
+      <th align="center">Competition</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">2025</td>
+      <td align="center">-</i></td>
+        <td align="center">대한민국 육군</td>
+      <td align="center">2025 육군 사이버보안 경진대회</td>
+    </tr>
+    <tr>
+      <td align="center">2026.10</td>
+      <td align="center">12th</i></td>
+        <td align="center">국립공원공단</td>
+      <td align="center">2026 국립공원 위성 모니터링 AI 챌린지 - 주제 3: 국립공원 내 시설물 변화 탐지</td>
+    </tr>
+  </tbody>
+</table>
+
 <br><br>
 
 <h2>🪪 Certificates</h2>
