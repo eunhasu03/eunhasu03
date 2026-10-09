@@ -93,6 +93,11 @@
       <td align="center">2026 국립공원 위성 모니터링 AI 챌린지(주제 3: 국립공원 내 시설물 변화 탐지) - AI엠그루트</td>
       <td align="center"><a href="https://aifactory.space/ko/competitions/9306/leaderboard">Leaderboard</a></td>
     </tr>
+    <td align="center">2026.9 ~ 개발 진행중</td>
+      <td align="center">-</td>
+      <td align="center">NVIDIA, NEBIUS</td>
+      <td align="center">Nebius X NVIDIA Global AI Hackathon</td>
+      <td align="center"><a href="https://github.com/NebiusXNVIDIA-Global-AI-Hackathon/Dwell-BE">BE</a></td>
   </tbody>
 </table>
 
