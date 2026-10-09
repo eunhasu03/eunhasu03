@@ -49,13 +49,13 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2026.03</td>
+      <td align="center">2025</td>
       <td align="center">정보처리기능사</td>
       <td align="center">-</td>
     </tr>
     <tr>
-      <td align="center">2026.03</td>
-      <td align="center">네트워크관리사 2급 (SQLD)</td>
+      <td align="center">2025</td>
+      <td align="center">네트워크관리사 2급</td>
       <td align="center">-</td>
     </tr>
   
